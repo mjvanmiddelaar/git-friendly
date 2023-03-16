@@ -1,1 +1,1 @@
-GIT beginner friendly master
+GIT beginner friendly combinaton
